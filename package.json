@@ -1,0 +1,20 @@
+{
+  "name": "corrosion-proxy",
+  "version": "1.0.0",
+  "description": "A simple web proxy using Corrosion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy",
+    "web",
+    "corrosion"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "corrosion": "github:titaniumnetwork-dev/Corrosion",
+    "express": "^4.21.2"
+  }
+}
